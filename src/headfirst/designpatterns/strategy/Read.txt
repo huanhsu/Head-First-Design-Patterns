@@ -1,1 +1,7 @@
 1. 在Duck加入fly, 就會導致次類別都有fly
+2. 把fly取出來變成介面-> 但是介面不具有程式碼, 程式碼無法再利用
+
+---封裝變動---
+
+3. 加入flybehavior介面, performfly取代fly
+4. 封裝fly行為 
